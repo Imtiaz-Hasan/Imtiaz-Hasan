@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imtiaz-Hasan
-- 👀 I’m interested in Web design, Graphics design and Software developing
-- 🌱 I’m currently learning Web Technologies
-- 💞️ I’m looking to collaborate on Web design, Graphics design.
+- 👀 I’m interested in Web development
+- 🌱 I’m in last semester
+- 💞️ I’m looking to collaborate on Web design, Software development.
 - 📫 How to reach me ...
 
 <!---
