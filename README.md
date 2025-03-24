@@ -10,5 +10,5 @@
    ✉️ Email: imtiaz.hasan121@gmail.com <br>
    🔗 LinkedIn: linkedin.com/in/md-imtiaz-hasan <br>
    💻 GitHub: github.com/Imtiaz-Hasan <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MD%20IMTIAZ%20HASAN&theme=microsoft-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+   
 <sub><i>my github contribution graph is generated from rebing tech's internal gitlab by an automated script that can only replicate commits. i do a lot more code review than it shows.</i></sub>
