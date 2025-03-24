@@ -1,7 +1,6 @@
 👋 Hi, I’m Md. Imtiaz Hasan
 
-🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
-
+🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast <br>
 👀 Passionate about Software Engineering & Web Development
 🎓 B.Sc. in Computer Science & Engineering from AIUB
 💡 Always exploring new technologies & best practices in modern web development
