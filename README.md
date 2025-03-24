@@ -11,4 +11,4 @@
    🔗 LinkedIn: linkedin.com/in/md-imtiaz-hasan <br>
    💻 GitHub: github.com/Imtiaz-Hasan <br>
 
-my github contribution graph is generated from rebing tech's internal gitlab by an automated script that can only replicate commits. i do a lot more code review than it shows.
+<sub><i>my github contribution graph is generated from rebing tech's internal gitlab by an automated script that can only replicate commits. i do a lot more code review than it shows.</i></sub>
