@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Imtiaz-Hasan
-- 👀 I’m interested in Web development and Software development.
-- 🌱 I’ve completed my undergraduate ....
-- 💞️ I’m looking to collaborate on Web development, Management.
-- 📫 How to reach me ...
-- Gmail: imtiaz.hasan121@gmail.com
+👋 Hi, I’m Md. Imtiaz Hasan
 
-<!---
-Imtiaz-Hasan/Imtiaz-Hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
+👀 Passionate about Software Engineering & Web Development
+🎓 B.Sc. in Computer Science & Engineering from AIUB
+💡 Always exploring new technologies & best practices in modern web development
+💞️ Open to collaborations in full-stack development, software architecture, and project management
+
+📬 Let's Connect:
+   ✉️ Email: imtiaz.hasan121@gmail.com
+   🔗 LinkedIn: linkedin.com/in/md-imtiaz-hasan
+   💻 GitHub: github.com/Imtiaz-Hasan
