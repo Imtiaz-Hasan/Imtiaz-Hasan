@@ -44,11 +44,16 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" alt="Imtiaz's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
