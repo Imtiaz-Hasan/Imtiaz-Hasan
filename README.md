@@ -1,24 +1,23 @@
-<h1 align="center">Hi, I'm Imtiaz Hasan 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Laravel & Next.js Specialist | Remote Work Enthusiast</h3>
-
+<h1 align="center">Hi there, I'm Imtiaz 👋</h1>
 <p align="center">
-  <a href="mailto:imtiaz.hasan121@gmail.com">Email</a> •
-  <a href="https://imtiazhasan.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/md-imtiaz-hasan">LinkedIn</a> •
-  <a href="https://github.com/Imtiaz-Hasan">GitHub</a>
+  A passionate <strong>Full Stack Software Engineer</strong> from Dhaka, Bangladesh 🇧🇩 <br>
+  Specializing in <strong>Laravel</strong>, <strong>Next.js</strong>, and <strong>MySQL</strong><br>
+  Building scalable, secure & high-performance web apps.
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-I'm a results-driven Software Engineer with over **3 years of experience** in full-stack web development. I specialize in building scalable, secure, and high-performance applications using **Laravel**, **Next.js**, and **MySQL**. I love working in distributed teams, building robust APIs, and solving complex backend challenges.
-
-I’ve contributed to several production-level applications, optimized databases, and led junior devs—all while thriving in fully remote environments.
+- 🧠 3+ years of experience in full-stack web development
+- 🧰 Tools of the trade: Laravel, Next.js, React, Node.js, MySQL, Docker, and AWS
+- 🔒 Strong focus on performance, clean code, and secure APIs
+- 🌍 Comfortable working across time zones with distributed teams
+- 🛠️ Building apps like [Phytopian](https://app.phytopian.com), [Reidun](https://test-reidun.rebingtest.com), and [Nurcen](https://test-nursery-central.rebingtest.com)
 
 ---
 
-### 🚀 Tech Stack
+### 🧑‍💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -41,24 +40,22 @@ I’ve contributed to several production-level applications, optimized databases
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" alt="Streak Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
 ---
 
-### 🧠 Let's Connect!
+### 📫 Let's Connect
 
-Whether you're looking for a collaborator, freelancer, or full-time team member—I'm always open to exciting opportunities.
-
-📧 **imtiaz.hasan121@gmail.com**  
-🌐 [imtiazhasan.com](https://imtiazhasan.com)  
-🔗 [linkedin.com/in/md-imtiaz-hasan](https://www.linkedin.com/in/md-imtiaz-hasan)
+- 🔗 [Portfolio](https://imtiazhasan.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-imtiaz-hasan)
+- 💻 [GitHub](https://github.com/Imtiaz-Hasan)
+- 📧 imtiaz.hasan121@gmail.com
 
 ---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
