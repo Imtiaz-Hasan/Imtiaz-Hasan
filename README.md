@@ -53,31 +53,6 @@ I’ve contributed to several production-level applications, optimized databases
 
 ---
 
-### 📌 Featured Projects
-
-- **[Phytopian](https://app.phytopian.com/)** – A scalable nursery management platform (Laravel, Next.js, MySQL)
-- **[Reidun](https://test-reidun.rebingtest.com/)** – Financial accounting tool with secure auth (Laravel, Bootstrap, jQuery)
-- **[Nurcen](https://test-nursery-central.rebingtest.com/)** – Nursery sales and inventory tracking system (Laravel, jQuery)
-
----
-
-### 🎓 Education
-
-**B.Sc. in Computer Science & Engineering**  
-American International University-Bangladesh (AIUB)  
-*2018 - 2021*
-
----
-
-### 📜 Certifications
-
-- AWS Certified Cloud Practitioner *(In Progress)*
-- Cisco Network Academy (Certified)
-- Python for Everybody – Coursera
-- Python Data Structures – Coursera
-
----
-
 ### 🧠 Let's Connect!
 
 Whether you're looking for a collaborator, freelancer, or full-time team member—I'm always open to exciting opportunities.
