@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Md. Imtiaz Hasan
 
 🚀 Full-Stack Software Engineer | Laravel • Next.js • MySQL  
-📍 Dhaka, Bangladesh  
-📧 [imtiaz.hasan121@gmail.com](mailto:imtiaz.hasan121@gmail.com) | 🌐 [imtiazhasan.com](https://imtiazhasan.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/md-imtiaz-hasan) | [GitHub](https://github.com/Imtiaz-Hasan)
 
 ---
 
@@ -55,4 +52,6 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 ## 💬 Let's Connect
 
 Always open to new opportunities, collaborations, or just a good dev talk. Feel free to reach out!
+📧 [imtiaz.hasan121@gmail.com](mailto:imtiaz.hasan121@gmail.com) | 🌐 [imtiazhasan.com](https://imtiazhasan.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/md-imtiaz-hasan) | [GitHub](https://github.com/Imtiaz-Hasan)
 
