@@ -45,8 +45,8 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" width="65%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="35%" />
 </p>
 
 ---
