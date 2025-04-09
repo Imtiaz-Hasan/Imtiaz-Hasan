@@ -52,14 +52,6 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 ---
 
-## 🧪 Publication
-
-**“Possible Side Effects after COVID-19 Vaccination Based on Pre-Existing Disease: Asthma”**  
-Published in ACM Digital Library → [DOI: 10.1145/3542954.3543001](https://doi.org/10.1145/3542954.3543001)  
-Focus: Data Science & ML in Health Informatics
-
----
-
 ## 💬 Let's Connect
 
 Always open to new opportunities, collaborations, or just a good dev talk. Feel free to reach out!
