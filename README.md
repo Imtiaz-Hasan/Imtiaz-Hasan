@@ -52,6 +52,9 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 ## 💬 Let's Connect
 
 Always open to new opportunities, collaborations, or just a good dev talk. Feel free to reach out!  
-📧 [imtiaz.hasan121@gmail.com](mailto:imtiaz.hasan121@gmail.com) | 🌐 [imtiazhasan.com](https://imtiazhasan.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/md-imtiaz-hasan) | [GitHub](https://github.com/Imtiaz-Hasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-imtiaz-hasan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Imtiaz-Hasan)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web&logoColor=white)](https://imtiazhasan.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imtiaz.hasan121@gmail.com)
+
 
