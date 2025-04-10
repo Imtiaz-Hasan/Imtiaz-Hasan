@@ -2,8 +2,6 @@
 
 ![Imtiaz GIF](./imtiaz.gif)
 
-🚀 Full-Stack Software Engineer | Laravel • Next.js • MySQL  
-
 ---
 
 ## 🧠 About Me
