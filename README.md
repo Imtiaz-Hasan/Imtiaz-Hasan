@@ -16,6 +16,15 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 ---
 
+## 🚀 What Defines Me
+
+🧠 Full-stack developer who approaches every bug as a mystery waiting to be cracked <br />
+🚀 Forever curious, diving deep into the world of System Analysis <br />
+🌐 Thrives in diverse teams, bringing energy to every project across borders <br />
+🍵 Powered by tea, purposeful code, plus the magic of a quick recharge nap <br />
+
+---
+
 ## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,6 +55,13 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 <br clear="left" />
+
+---
+
+## 🏅 Certifications
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/18d7a17952dae64e61d1a4690737364c)  
+- [Advanced Learning Algorithms](https://coursera.org/share/2bec2b70e6d97a717ad0669a80662d89)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://coursera.org/share/41d1ee3dfab962cc99633194161137f8)
 
 ---
 
