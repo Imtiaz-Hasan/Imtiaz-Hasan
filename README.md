@@ -5,10 +5,10 @@
 ---
 
 ## 🧠 About Me
-Hey there! I’m Imtiaz, a curious mind who loves building things for the web. Whether it’s crafting clean and scalable APIs or designing slick UIs that actually make sense—I’m all in. I write code to solve real problems and make digital experiences smoother, faster, and more reliable.
+Hey there! I’m Imtiaz, a curious mind who loves building things for the web. Whether it’s crafting clean and scalable APIs or designing slick UIs that actually make sense - I’m all in. I write code to solve real problems and make digital experiences smoother, faster, and more reliable.
 
 🧩 Full-stack developer who actually enjoys debugging (yes, really!)  
-💡 Passionate about learning—currently geeking out over Docker and cloud deployments  
+💡 Passionate about learning - currently geeking out over Docker and cloud deployments  
 🌍 Comfortable working remotely, collaborating across time zones, and never missing a deadline  
 ☕ Runs on coffee, commits, and the occasional power nap
 
