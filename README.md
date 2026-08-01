@@ -8,6 +8,7 @@
 Hey there! I’m Imtiaz, a curious mind who loves building things for the web. Whether it’s crafting clean and scalable APIs or designing slick UIs that actually make sense - I’m all in. I write code to solve real problems and make digital experiences smoother, faster, and more reliable.
 
 🧩 Full-stack developer who actually enjoys debugging (yes, really!)  
+🤖 Deep in LLM engineering - RAG pipelines, structured outputs, MCP servers, eval harnesses
 💡 Passionate about learning - currently geeking out over Docker and cloud deployments  
 🌍 Comfortable working remotely, collaborating across time zones, and never missing a deadline  
 ☕ Runs on coffee, commits, and the occasional power nap
@@ -19,6 +20,8 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 ## 🚀 What Defines Me
 
 🧠 Full-stack developer who approaches every bug as a mystery waiting to be cracked <br />
+🔍 I don't ship prompts I can't measure — if it matters, it gets a labelled test set <br /> 
+📉 Drawn to the unglamorous wins: 4 min → 15 sec, 60% → 90%, 30% faster APIs <br />
 🚀 Forever curious, diving deep into the world of System Analysis <br />
 🌐 Thrives in diverse teams, bringing energy to every project across borders <br />
 🍵 Powered by tea, purposeful code, plus the magic of a quick recharge nap <br />
@@ -27,6 +30,15 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 ## 🛠 Tech Stack
 
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-6C4AB6?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0B7285?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1A7F64?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-1C1C1C?style=flat-square)
+![Eval Harnesses](https://img.shields.io/badge/Eval_Harnesses-B5651D?style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
