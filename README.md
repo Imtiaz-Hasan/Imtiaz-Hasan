@@ -20,7 +20,7 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 ## 🚀 What Defines Me
 
 🧠 Full-stack developer who approaches every bug as a mystery waiting to be cracked <br />
-🔍 I don't ship prompts I can't measure — if it matters, it gets a labelled test set <br /> 
+🔍 I don't ship prompts I can't measure - if it matters, it gets a labelled test set <br /> 
 📉 Drawn to the unglamorous wins: 4 min → 15 sec, 60% → 90%, 30% faster APIs <br />
 🚀 Forever curious, diving deep into the world of System Analysis <br />
 🌐 Thrives in diverse teams, bringing energy to every project across borders <br />
