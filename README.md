@@ -77,7 +77,7 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 <div align="center">
   <h2>📈 GitHub Stats</h2>
-  <img width="350" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Imtiaz-Hasan&layout=compact&theme=radical&hide_border=true&bg_color=282A36&title_color=ffffff&text_color=ffffff&langs_count=8" />
+  <img width="350" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Imtiaz-Hasan&layout=compact&theme=radical&hide_border=true&bg_color=282A36&title_color=ffffff&text_color=ffffff&langs_count=10" />
 </div>
 
 ---
