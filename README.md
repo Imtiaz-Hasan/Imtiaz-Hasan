@@ -79,6 +79,8 @@ Outside of code, you’ll find me exploring new tech trends, reading random blog
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Imtiaz-Hasan&theme=dracula&hide_border=true" />
 <br clear="left" />
+<br>
+![Top Languages]([https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lxcardoza993&layout=compact&theme=radical&hide_border=true&bg_color=0,ffc2e0,ff9ecd&title_color=5c1046&text_color=5c1046](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Imtiaz-Hasan&layout=compact&theme=radical&hide_border=true&bg_color=282A36&title_color=ffff&text_color=ffff))
 
 ---
 
